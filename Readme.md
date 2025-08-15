@@ -87,11 +87,11 @@ These can be loaded into any script or application to make predictions on new, u
 ## How to Run This Project
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/imSyedMoinUddin/Telecom-Churn-Prediction.git
     ```
 2.  **Navigate to the Directory:**
     ```bash
-    cd your-repo-name
+    cd Telecom-Churn-Prediction
     ```
 3.  **Install Required Libraries:**
     ```bash
